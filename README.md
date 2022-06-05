@@ -7,4 +7,5 @@ We list the most popular methods for Diffusion models, if we missed something, p
 
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2020-06-09|Diffusion models|NeurlIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
+2020-06-09|Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
+2021-05-11|guided-diffusion|NeurIPS 2021|[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)|[guided-diffusion](https://github.com/openai/guided-diffusion)
