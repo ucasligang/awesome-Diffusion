@@ -7,4 +7,4 @@ We list the most popular methods for Diffusion models, if we missed something, p
 
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2020-06-09|iGPT|NeurlIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
+2020-06-09|Diffusion models|NeurlIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
