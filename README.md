@@ -1,7 +1,7 @@
 
-Reading list for research topics in Masked Image Modeling(MIM).
+Reading list for research topics in Diffusion models.
 
-We list the most popular methods for MIM, if we missed something, please submit a request.
+We list the most popular methods for Diffusion models, if we missed something, please submit a request.
 (Note: We show the date the first edition of the paper was submitted to arxiv, but the link to the paper may be up to date.)
 
 
