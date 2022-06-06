@@ -13,4 +13,6 @@ Date|Method|Conference|Title|Code
 
 
 Segmentation：
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
 2021-12-06|ddpm-segmentation|ICLR 2022|[Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf)|[ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation)
