@@ -9,6 +9,7 @@ Generative Tasks：
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2020-06-09|Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
+2020-10-06|DDIM|ICLR 2021|[DENOISING DIFFUSION IMPLICIT MODELS](https://arxiv.org/pdf/2010.02502.pdf)|None
 2021-05-11|guided-diffusion|NeurIPS 2021|[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)|[guided-diffusion](https://github.com/openai/guided-diffusion)
 2021-10-06|DiffusionCLIP|Arxiv 2021|[DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/pdf/2112.10741.pdf)|[DiffusionCLIP](https://github.com/gwang-kim/DiffusionCLIP)
 2021-12-20|GLIDE|Arxiv 2021|[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)|[GLIDE](https://github.com/openai/glide-text2im)
