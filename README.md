@@ -18,6 +18,7 @@ Date|Method|Conference|Title|Code
 2021-10-06|DiffusionCLIP|Arxiv 2021|[DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/pdf/2112.10741.pdf)|[DiffusionCLIP](https://github.com/gwang-kim/DiffusionCLIP)
 2021-11-10|Palette|Arxiv 2021|[Palette: Image-to-Image Diffusion Models](https://arxiv.org/pdf/2111.05826.pdf)| None
 2021-12-20|GLIDE|Arxiv 2021|[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)|[GLIDE](https://github.com/openai/glide-text2im)
+2022-04-13|DALL·E 2|Arxiv 2022|[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)|None
 2022-06-03|Composable-Diffusion|Arxiv 2022|[Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)|[Composable-Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)
 
 
