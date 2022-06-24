@@ -9,7 +9,7 @@ Generative Tasks：
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2015-xx-xx|Diffusion models|ICML 2015|[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://proceedings.mlr.press/v37/sohl-dickstein15.pdf)|None
-2020-06-09|Denoised Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2204.02964.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
+2020-06-09|Denoised Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
 2020-10-06|DDIM|ICLR 2021|[DENOISING DIFFUSION IMPLICIT MODELS](https://arxiv.org/pdf/2010.02502.pdf)|None
 2020-11-26|SDE|ICLR 2021(Oral)|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)|None
 2021-02-18|improved-diffusion|Arxiv 2021|[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2102.09672.pdf)|[improved-diffusion](https://github.com/openai/improved-diffusion)
