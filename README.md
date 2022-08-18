@@ -22,6 +22,7 @@ Date|Method|Conference|Title|Code
 2021-11-29|Blended diffusion|Arxiv 2021|[Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/pdf/2111.14818.pdf)|[Blended Diffusion](https://omriavrahami.com/blended-diffusion-page/)
 2021-12-20|GLIDE|Arxiv 2021|[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)|[GLIDE](https://github.com/openai/glide-text2im)
 2022-01-24|RePaint|CVPR 2022|[RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2201.09865.pdf)|[RePaint](https://www.git.io/RePaint)
+2022-04-06|KNN-Diffusion|Arxiv 2022|[KNN-Diffusion: Image Generation via Large-Scale Retrieval](https://arxiv.org/pdf/2204.02849.pdf)|None
 2022-04-13|DALL·E 2|Arxiv 2022|[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)|None
 2022-05-23|Imagen|Arxiv 2022|[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)|None
 2022-06-01|--|Arxiv 2022|[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364.pdf)|None
