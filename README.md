@@ -31,12 +31,23 @@ Date|Method|Conference|Title|Code
 
 
 
-Segmentation：
-Date|Method|Conference|Title|Code
------|----|-----|-----|-----
-2021-12-06|ddpm-segmentation|ICLR 2022|[Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf)|[ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation)
 
+Segmentation：
+Date|Conference|Title
+-----|-----|-----
+2022-09-0206|Arxiv 2022|[DIFFUSION MODELS: A COMPREHENSIVE SURVEY OF
+METHODS AND APPLICATIONS](https://arxiv.org/pdf/2112.03126.pdf)
+
+Survey:
+Date|Method|Conference|Title
+-----|----|-----|-----
+2021-12-06|ddpm-segmentation|ICLR 2022|[Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2209.00796.pdf)
 
 Tutorial:
 
 [CVPR 2022 Tutorial:Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://cvpr2022-tutorial-diffusion-models.github.io)
+
+
+
+
+
