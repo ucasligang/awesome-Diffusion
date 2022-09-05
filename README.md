@@ -33,10 +33,9 @@ Date|Method|Conference|Title|Code
 
 
 Segmentation：
-Date|Conference|Title
------|-----|-----
-2022-09-0206|Arxiv 2022|[DIFFUSION MODELS: A COMPREHENSIVE SURVEY OF
-METHODS AND APPLICATIONS](https://arxiv.org/pdf/2112.03126.pdf)
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2021-12-06|ddpm-segmentation|ICLR 2022|[Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf)|[ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation)
 
 Survey:
 Date|Conference|Title
