@@ -27,8 +27,8 @@ Date|Method|Conference|Title|Code
 2022-05-23|Imagen|Arxiv 2022|[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)|None
 2022-06-01|--|Arxiv 2022|[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364.pdf)|None
 2022-06-03|Composable-Diffusion|Arxiv 2022|[Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)|[Composable-Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)
-2022-08-03|PDDPM|Arxiv 2022|[Pyramidal Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2208.01864.pdf)|[None]
-2022-08-25|DreamBooth|Arxiv 2022|[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)|[None]
+2022-08-03|PDDPM|Arxiv 2022|[Pyramidal Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2208.01864.pdf)|None
+2022-08-25|DreamBooth|Arxiv 2022|[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)|None
 
 
 
