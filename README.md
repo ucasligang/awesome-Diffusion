@@ -41,6 +41,7 @@ Survey:
 Date|Conference|Title
 -----|-----|-----
 2022-09-02|Arxiv 2022|[DIFFUSION MODELS: A COMPREHENSIVE SURVEY OF METHODS AND APPLICATIONS](https://arxiv.org/pdf/2209.00796.pdf)
+2022-09-12|Arxiv 2022|[A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf)
 
 Tutorial:
 
