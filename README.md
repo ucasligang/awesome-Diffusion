@@ -6,7 +6,7 @@ We list the most popular methods for Diffusion models, if we missed something, p
 
 Generative Tasks：
 
-Date|Method|Conference|Title|Code
+Date|Method|Conference|Title|Code/Project Page
 -----|----|-----|-----|-----
 2015-xx-xx|Diffusion models|ICML 2015|[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://proceedings.mlr.press/v37/sohl-dickstein15.pdf)|None
 2020-06-09|Denoised Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
@@ -30,7 +30,7 @@ Date|Method|Conference|Title|Code
 2022-06-22|videoDiffusion|NeurIPS 2022|[Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf)|None
 2022-08-03|PDDPM|Arxiv 2022|[Pyramidal Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2208.01864.pdf)|None
 2022-08-25|DreamBooth|Arxiv 2022|[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)|None
-2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|None
+2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|[3DDesigner](https://3ddesigner-diffusion.github.io/)
 
 
 Segmentation：
