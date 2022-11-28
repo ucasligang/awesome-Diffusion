@@ -30,7 +30,7 @@ Date|Method|Conference|Title|Code
 2022-06-22|videoDiffusion|NeurIPS 2022|[Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf)|None
 2022-08-03|PDDPM|Arxiv 2022|[Pyramidal Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2208.01864.pdf)|None
 2022-08-25|DreamBooth|Arxiv 2022|[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)|None
-
+2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|None
 
 
 Segmentation：
