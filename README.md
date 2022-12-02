@@ -32,6 +32,7 @@ Date|Method|Conference|Title|Code/Project Page
 2022-08-25|DreamBooth|Arxiv 2022|[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)|None
 2022-11-17|UViT|Arxiv 2022|[All are Worth Words: A ViT Backbone for Diffusion Models](https://arxiv.org/pdf/2209.12152.pdf)|[UViT](https://github.com/baofff/U-ViT)
 2022-11-17|RenderDiffusion|Arxiv 2022|[RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/pdf/2211.09869.pdf)|[RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion)
+2022-11-17|Null-text Inversion|Arxiv 2022|[Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/pdf/2211.09794.pdf)|[Null-text Inversion](https://null-text-inversion.github.io/)
 2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|[3DDesigner](https://3ddesigner-diffusion.github.io/)
 
 
