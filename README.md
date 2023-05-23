@@ -43,7 +43,7 @@ Date|Method|Conference|Title|Code
 
 Other Discriminative Tasks：
 -----|----|-----|-----|-----
-2023-05-18|--|Arxiv 2023|[Discriminative Diffusion Models as Few-shot Vision and Language Learners](https://arxiv.org/pdf/2305.10722.pdf)|None
+2023-05-18| ~ |Arxiv 2023|[Discriminative Diffusion Models as Few-shot Vision and Language Learners](https://arxiv.org/pdf/2305.10722.pdf)| None
 
 Survey:
 Date|Conference|Title
